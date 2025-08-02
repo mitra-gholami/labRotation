@@ -1,0 +1,16 @@
+torch>=1.1.0
+torchvision
+scipy
+numpy==1.23.5
+pytest
+editdistance
+dataclasses
+rich
+scikit-learn
+wandb
+submitit
+matplotlib
+pandas
+tqdm
+h5py
+torchmetrics
